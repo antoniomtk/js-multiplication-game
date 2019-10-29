@@ -1,4 +1,3 @@
-# js-math-game
 Simple Multiplication Game made in Javascript
 
 <p align="center">
