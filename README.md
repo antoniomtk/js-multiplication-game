@@ -1,5 +1,6 @@
-Simple Multiplication Game made in Javascript
+This is a sSimple Multiplication Game made in Vannila JS. 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/antoniomtk/js-multiplication-game/master/screenshoot.png" width="600" title="JS Math Game">
-</p>
+You can check it out working version here: [DEMO](https://antoniomtk.github.io/clock-app/)
+
+![alt text](https://raw.githubusercontent.com/antoniomtk/js-multiplication-game/master/screenshoot.png "Multiplication Game")
+
