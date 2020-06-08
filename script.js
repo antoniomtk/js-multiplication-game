@@ -20,7 +20,7 @@ button.onclick = function() {
       show('instruction');
       show('options');
       document.getElementById('score-value').innerHTML = score;
-      document.getElementById('start-reset').innerHTML = 'Reset Game';   
+      document.getElementById('start-reset').innerHTML = 'Reset';   
       show('score');
       document.getElementById('time-remain-value').innerHTML = timeRemain;
       // start time coundown
